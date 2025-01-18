@@ -50,7 +50,7 @@ python RunTree.py
 
 ## Preview
 
-![Tree Visualizer](https://github.com/mahtabulsouravv/tree-visualizer/blob/main/Resources/Preview.PNG)
+![Tree Visualizer](https://github.com/mahtabulsouravv/tree-visualizer/blob/main/Resources/PreviewTree.PNG)
 
 
 ## Contributing
