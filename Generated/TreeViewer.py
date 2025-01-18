@@ -313,7 +313,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "Tree Visualization By MahtabulShourav"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Tree Visualizer By MahtabulShourav"))
         self.ParentLabel.setText(_translate("MainWindow", "Parent Node:"))
         self.ParentField.setPlaceholderText(_translate("MainWindow", "Add Parent"))
         self.ChildLabel.setText(_translate("MainWindow", "Child->Node:"))
