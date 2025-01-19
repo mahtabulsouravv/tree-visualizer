@@ -25,10 +25,13 @@ A Python-based GUI application to visualize binary trees using PyQt5. The Tree V
 1. Clone this repository:
    ```bash
    git clone https://github.com/mahtabulsouravv/tree-visualizer.git
+   ```
+2. Navigate to the project directory:
+   ```bash
    cd tree-visualizer
    ```
 
-2. Install the required dependencies:
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
